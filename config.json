@@ -1,5 +1,5 @@
 {
-    "token": "MTUwODExNzA4NTA2OTI1MDYxMg.GxVy3q.vwiG-SEMWXUGpueOT1cu5QfMugNtkMqPkJcaLk",
+    "token": null,
     "webserver-port": 5544,
     "webserver-host": "127.0.0.1",
     "roles-allowed-to-control-bot": ["countdown-controller", "Admin"],
